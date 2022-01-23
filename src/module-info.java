@@ -1,0 +1,2 @@
+module HypeBurger {
+}
