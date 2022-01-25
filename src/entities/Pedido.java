@@ -6,6 +6,5 @@ public class Pedido {
 	Integer id;
 	Date data;
 	Double valor;
-	
 
 }
